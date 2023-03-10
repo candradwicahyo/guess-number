@@ -21,7 +21,7 @@ dibuat dengan menggunakan html, css dan javascript. di game ini, kalian akan dis
 
 ## cara mendownload
 
-install atau buka command prompt kalian si handphone atau laptop/pc dan ketikan kode dibawah ini 
+install atau buka command prompt kalian di handphone atau laptop/pc dan ketikan kode dibawah ini 
 
 ```bash
 pkg install git 
